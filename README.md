@@ -10,4 +10,4 @@ Editá `links.js`. Dentro de cada categoría, cambiá `name`, `description`, `ur
 
 Guardá `links.js` en la rama `main` con un commit. GitHub Pages publica la carpeta raíz de esa rama. Esperá a que termine el deployment en **Settings → Pages** o **Actions** y recargá la página. No hace falta modificar `index.html` para actualizar un enlace.
 
-Los enlaces del HTML a CSS, JavaScript y favicon son relativos, por lo que funcionan desde la ruta `/pagina-personal/`. El archivo `.nojekyll` evita procesamientos innecesarios de GitHub Pages.
+Los enlaces del HTML a CSS, JavaScript y favicon son relativos, por lo que funcionan desde la ruta `/Analista/`. El archivo `.nojekyll` evita procesamientos innecesarios de GitHub Pages.
