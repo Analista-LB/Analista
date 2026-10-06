@@ -27,6 +27,12 @@ const siteConfig = {
           description: "Acceso al sistema de tickets",
           url: "https://ab-inbevar.zendesk.com/agent/home/tickets?sort=newest&brand_id=1260800202989",
           icon: "🎟️"
+        },
+        {
+          name: "Estandar de Ejecucion",
+          description: "Acceso al estándar de ejecución",
+          url: "https://estandar-ejecucion-cmq.replit.app/login",
+          icon: "📋"
         }
       ]
     },
