@@ -58,6 +58,12 @@ const siteConfig = {
           description: "Envíos y listado de POP",
           url: "https://app.atodatintaimpresos.com.ar/envios/listado",
           icon: "📦"
+        },
+        {
+          name: "Usuarios Bees Force",
+          description: "Planilla de usuarios de Bees Force",
+          url: "https://docs.google.com/spreadsheets/d/12ASwrmhsa7UZmXjZ34CfBICSrHxEj6E5EtEI0bTPVz0/edit?usp=drivesdk",
+          icon: "👥"
         }
       ]
     }
