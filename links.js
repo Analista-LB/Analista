@@ -33,6 +33,18 @@ const siteConfig = {
           description: "Acceso al estándar de ejecución",
           url: "https://estandar-ejecucion-cmq.replit.app/login",
           icon: "📋"
+        },
+        {
+          name: "Bees Academy",
+          description: "Acceso a la academia de capacitación Bees",
+          url: "https://beesacademy2026.netlify.app",
+          icon: "🎓"
+        },
+        {
+          name: "Excepciones Clientes",
+          description: "Planilla de excepciones de clientes",
+          url: "https://docs.google.com/spreadsheets/d/1mxGY0l0cf51ZpK3OQxggLQHF5WgpvEbSjMoxeTYcZ2c/edit?usp=drivesdk",
+          icon: "🗂️"
         }
       ]
     },
@@ -64,6 +76,37 @@ const siteConfig = {
           description: "Planilla de usuarios de Bees Force",
           url: "https://docs.google.com/spreadsheets/d/12ASwrmhsa7UZmXjZ34CfBICSrHxEj6E5EtEI0bTPVz0/edit?usp=drivesdk",
           icon: "👥"
+        }
+      ]
+    },
+    {
+      name: "Datos Personales",
+      icon: "🪪",
+      description: "Formularios y respuestas de datos personales",
+      links: [
+        {
+          name: "Carnet - Formulario",
+          description: "Editar formulario de carnet",
+          url: "https://docs.google.com/forms/d/1oRGWtkoJ6sizdiPVeOzgcYHW4ezt7U02jWXOwcnep7k/edit",
+          icon: "📝"
+        },
+        {
+          name: "Carnet - Respuestas",
+          description: "Planilla de respuestas de carnet",
+          url: "https://docs.google.com/spreadsheets/d/1lisJqSywH4j0_tG8HbeuZ9jQ1HMIyFOIOS64LGKi_H0/edit?usp=drivesdk",
+          icon: "📊"
+        },
+        {
+          name: "Libreta Sanitaria - Formulario",
+          description: "Editar formulario de libreta sanitaria",
+          url: "https://docs.google.com/forms/d/12_heCkDogfTZwD93YyYWdQg_lVzWfgIcVcgqYmkNMi4/edit",
+          icon: "📝"
+        },
+        {
+          name: "Libreta Sanitaria - Respuestas",
+          description: "Planilla de respuestas de libreta sanitaria",
+          url: "https://docs.google.com/spreadsheets/d/1j5dQy36Dj73AkkLyEQ7ERq6kOzL9WnWRM6ydBxgqqOY/edit?usp=drivesdk",
+          icon: "📊"
         }
       ]
     }
