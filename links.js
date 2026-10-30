@@ -14,6 +14,12 @@ const siteConfig = {
           url: "https://docs.google.com/spreadsheets/d/1WSNfmRLVyMq__Ujxwoqk7JogH3BqAl-xbcPwtSP8eDk/edit?gid=698895800#gid=698895800",
           icon: "📈",
           featured: true
+        },
+        {
+          name: "Dashboard LuanBeer",
+          description: "Panel de análisis comercial de LuanBeer",
+          url: "https://dashboard-luanbeer.lbthomasviera.workers.dev/",
+          icon: "📊"
         }
       ]
     },
